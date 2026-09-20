@@ -8,7 +8,7 @@ non-code work like social media management.
 
 Open `script.js` and edit the `CONFIG` block at the top:
 
-- `GITHUB_USERNAME` — your GitHub username.
+- `GITHUB_USERNAME` — WitInMotion.
 - `EXCLUDE_REPOS` — repo names to hide (use this for anything under
   NDA, like your InfraGuard AI work — keep the repo private on GitHub
   too, this only hides it from the *display* if it were public).
@@ -42,7 +42,7 @@ GitHub API fetch from a `file://` URL — a local server avoids that.)
    to the repo's default branch.
 3. In the repo: **Settings → Pages → Source**, select the branch
    (usually `main`) and root folder, then save.
-4. GitHub will publish it at `https://yourusername.github.io`
+4. GitHub will publish it at `https://WitInMotion.github.io`
    (or `.../repo-name`) within a minute or two.
 
 ## 4. Alternative hosts
