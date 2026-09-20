@@ -3,7 +3,7 @@
    ============================================================ */
 const CONFIG = {
   // Your GitHub username (no @, just the username)
-  GITHUB_USERNAME: "your-github-username",
+  GITHUB_USERNAME: "WitInMotion",
 
   // Repos to hide from the grid — use this for anything under NDA
   // or otherwise not meant to be public-facing (e.g. client work).
